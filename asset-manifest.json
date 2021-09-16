@@ -841,10 +841,10 @@
     "static/media/yogesh-dandawate.d887f5f1.png": "/react-gh-pages/static/media/yogesh-dandawate.d887f5f1.png"
   },
   "entrypoints": [
-    "js/runtime-main.d0153db9.js",
-    "css/408.3c8db6d4.chunk.css",
-    "js/408.849553da.chunk.js",
-    "css/main.6dea0f05.chunk.css",
-    "js/main.cdb16669.chunk.js"
+    "static/js/runtime-main.d0153db9.js",
+    "static/css/408.3c8db6d4.chunk.css",
+    "static/js/408.849553da.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.cdb16669.chunk.js"
   ]
 }
